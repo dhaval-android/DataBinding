@@ -15,9 +15,11 @@ After install plugin  you have Require to done some changes in both gradel file 
   - Require to add class path in dependency  block
   
   dependencies {
+
         classpath 'com.android.tools.build:gradle:2.0.0'
         classpath "com.android.databinding:dataBinder:1.+"
         //we have require to add class path for data bindig like above
+        
     }
   
 
