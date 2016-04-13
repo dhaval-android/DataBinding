@@ -6,3 +6,9 @@ And another thing we have included how to bind imageview with mechanisam of usin
 
 
 # Gradel Configuration for Do databinding 
+
+First you have require to install databinding plugin in your Android Studio
+
+After install pluging you have Require to done some changes in both gradel file app level or project level.
+## 1. Project level gradel changes :
+  -
